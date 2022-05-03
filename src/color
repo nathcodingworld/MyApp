@@ -1,0 +1,13 @@
+#181818
+#0f0f0f
+#030303
+
+#fff
+#f9f9f9
+
+
+const Template: React.FC = (props) => {
+  return <></>;
+};
+
+export default Template;
